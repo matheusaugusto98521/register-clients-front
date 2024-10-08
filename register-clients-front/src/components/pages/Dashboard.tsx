@@ -100,7 +100,6 @@ const Dashboard = () => {
                     )}
                 </tbody>
             </table>
-
             {isModalOpen && client && (
                 <Modal>
                     <div className="relative">
@@ -125,7 +124,6 @@ const Dashboard = () => {
                                     required
                                 />
                             </label>
-
                             <label className="block">
                                 Documento:
                                 <input
@@ -137,7 +135,6 @@ const Dashboard = () => {
                                     required
                                 />
                             </label>
-
                             <label className="block">
                                 Ocupação:
                                 <input
@@ -150,7 +147,6 @@ const Dashboard = () => {
                                     required
                                 />
                             </label>
-
                             <label className="block">
                                 Email:
                                 <input
@@ -163,7 +159,6 @@ const Dashboard = () => {
                                     required
                                 />
                             </label>
-
                             <label className="block">
                                 Telefone:
                                 <input
@@ -176,7 +171,6 @@ const Dashboard = () => {
                                     required
                                 />
                             </label>
-
                             <label className="block">
                                 Data de nascimento:
                                 <input
@@ -189,7 +183,6 @@ const Dashboard = () => {
                                     required
                                 />
                             </label>
-
                             <button type="submit" className="bg-green-500 text-white px-4 py-2 rounded">Atualizar</button>
                         </form>
                     </div>

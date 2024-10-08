@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Client } from "../utils/types/Client";
 
-const API_URL = 'http://localhost:8080/client';
+const API_URL = 'http://localhost:8090/client';
 
 type UseClientsReturn = {
     clients: Client[] | null;

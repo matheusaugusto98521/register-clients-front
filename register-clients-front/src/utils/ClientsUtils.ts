@@ -1,6 +1,6 @@
 import { Client } from "./types/Client";
 
-const API_URL = 'http://localhost:8080/client';
+const API_URL = 'http://localhost:8090/client';
 
 export const registerClientUtils = async(clientData : Client | null): Promise<Client | null> =>{
     try {
