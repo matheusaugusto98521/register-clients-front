@@ -11,7 +11,7 @@
 | ---- | ------ |
 | React | [Documentação](https://react.dev/learn) |
 | Typescript | [Documentação](https://www.typescriptlang.org/docs/) |
-| H2 Database | [Documentação](https://tailwindcss.com/docs/installation) |
+| Tailwind CSS | [Documentação](https://tailwindcss.com/docs/installation) |
 
 ### 🔎 Passo a Passo para rodar a aplicação na linha de comando
 
